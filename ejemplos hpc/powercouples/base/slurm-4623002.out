@@ -1,0 +1,22 @@
+running benchmark for ../data/input_10000x500.csv
+running benchmark for ../data/input_1000x500.csv
+running benchmark for ../data/input_2000x500.csv
+running benchmark for ../data/input_3000x500.csv
+running benchmark for ../data/input_4000x500.csv
+running benchmark for ../data/input_5000x500.csv
+running benchmark for ../data/input_6000x500.csv
+running benchmark for ../data/input_7000x500.csv
+running benchmark for ../data/input_8000x500.csv
+running benchmark for ../data/input_9000x500.csv
+waiting for tasks to complete
+input_1000x500.csv 120.929
+input_2000x500.csv 235.108
+input_3000x500.csv 360.894
+input_4000x500.csv 474.711
+input_5000x500.csv 569.058
+input_6000x500.csv 675.924
+input_7000x500.csv 810.427
+input_8000x500.csv 917.097
+input_9000x500.csv 1019.673
+input_10000x500.csv 1091.384
+done
